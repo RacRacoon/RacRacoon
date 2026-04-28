@@ -1,14 +1,13 @@
 # 👋 Hi, I'm Sultan Syafiq Rakan
 
-🎓 Computer Engineering Student @ ITS Surabaya  
-🤖 Interested in AI, IoT, and Embedded Systems  
+🎓 Computer Engineering @ ITS Surabaya  
+🤖 AI • IoT • Embedded Systems  
 
 ---
 
-## 🚀 About Me
-- 💡 Passionate in building real-world tech solutions  
-- 🔬 Experience in AI/ML systems and IoT development  
-- 🧪 Focus on system reliability, testing, and performance  
+## 🚀 About
+Building real-world systems that combine **machine learning, embedded devices, and data pipelines**.  
+Focused on reliability, performance, and practical deployment.
 
 ---
 
@@ -33,12 +32,13 @@
 ![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge)
+
 ---
 
-## 📌 Current Focus
+## 📌 Focus
 - AI-powered systems  
 - IoT & smart monitoring  
-- System integration  
+- System integration & testing  
 
 ---
 
