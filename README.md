@@ -36,9 +36,10 @@ Focused on reliability, performance, and practical deployment.
 ---
 
 ## 📌 Focus
-- AI-powered systems  
-- IoT & smart monitoring  
-- System integration & testing  
+
+![AI Systems](https://img.shields.io/badge/AI%20Systems-111111?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT-111111?style=for-the-badge)
+![System Integration](https://img.shields.io/badge/System%20Integration-111111?style=for-the-badge) 
 
 ---
 
