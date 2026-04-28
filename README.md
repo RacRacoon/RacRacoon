@@ -13,7 +13,6 @@
 ---
 
 ## 🛠️ Tech
-## 🛠️ Tech
 
 ### 💻 Programming
 ![Python](https://img.shields.io/badge/Python-0A0A0A?style=for-the-badge&logo=python)
